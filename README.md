@@ -19,4 +19,4 @@ Desarrollo soluciones web y APIs REST, con foco en calidad, trazabilidad y conti
 
 ## Contacto
 - Email: mtorresestay@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/mat%C3%ADas-eduardo-estay-torres-1a0b90372/)]
+- LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-eduardo-estay-torres-1a0b90372/
